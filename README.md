@@ -13,7 +13,7 @@
 - [dasturlash.uz](https://dasturlash.uz/)
 
 ### Youtube sahifalari
-- Shaxsiy bloglar
-  - [Farkhod Dadajanov](https://www.youtube.com/c/FarkhodDadajanov)
 - Hamjamiyat sahifalari
   - [Texnoman Tv](https://www.youtube.com/c/TexnomanTv)
+- Shaxsiy bloglar
+  - [Farkhod Dadajanov](https://www.youtube.com/c/FarkhodDadajanov)
