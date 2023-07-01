@@ -47,6 +47,7 @@
   - [Techstans](https://www.youtube.com/@techstans)
 - Shaxsiy bloglar
   - [Shakhzod Tojiyev](https://www.youtube.com/c/ShakhzodTojiyev)
+  - [Javohir Narzullayev](https://www.youtube.com/@javohirnarzullayev6452)
   - [Farkhod Dadajanov](https://www.youtube.com/c/FarkhodDadajanov)
   - [Saidbek Arislonov](https://www.youtube.com/c/SaidbekArislonov)
   - [Botir Ziyatov](https://www.youtube.com/channel/UCITeBYoT2MxV_GDdYK8lSCA)
