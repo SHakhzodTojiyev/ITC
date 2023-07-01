@@ -35,6 +35,8 @@
 - Hamjamiyat sahifalari
   - [Texnoman Tv](https://www.youtube.com/c/TexnomanTv)
   - [Mohirdev](https://www.youtube.com/c/Mohirdev)
+  - [MOBILERS](https://www.youtube.com/@mobilersuz)
+  - [dotnetuz](https://www.youtube.com/@dotnetuz)
   - [PDP Academy](https://www.youtube.com/c/pdpuz)
   - [Najot Ta'lim](https://www.youtube.com/c/najottalim)
   - [InterView uz](https://www.youtube.com/c/InterViewuz)
