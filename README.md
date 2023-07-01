@@ -65,6 +65,7 @@
   - [Nuraliyev O'rgatadi](https://www.youtube.com/@NuraliyevOrgatadi)
   - [Sardor Og'a](https://www.youtube.com/@SardorOga)
   - [Azimjon Pulatov](https://www.youtube.com/@azim)
+  - [usufdev](https://www.youtube.com/@usufdev)
   - [Alisher Makhmudov](https://www.youtube.com/@AlisherMakhmudov)
   - [Muhammadjavohir Suratov](https://www.youtube.com/@MuhammadjavohirSuratov)
   - [Tutorialsuz Official](https://www.youtube.com/@TUTORIALSUZ)
