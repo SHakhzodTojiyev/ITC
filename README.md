@@ -11,7 +11,7 @@
 - [code.180kun.com](https://code.180kun.com/)
 - [havola.uz](https://havola.uz/)
 - [dasturlash.uz](https://dasturlash.uz/)
-
+---
 ### Youtube sahifalari
 - Hamjamiyat sahifalari
   - [Texnoman Tv](https://www.youtube.com/c/TexnomanTv)
