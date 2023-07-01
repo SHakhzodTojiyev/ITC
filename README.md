@@ -1,6 +1,9 @@
 ![IT Community of Uzbekistan](https://i.ibb.co/F0TSLjx/Demo.png)
 # [Odamlar Ucha Olar!](https://www.youtube.com/watch?v=_TqeyyPDXKc)
-**Zamonaviy kasblarni bepul o'rganish imkonini beruvchi ma'lumotlar to'plami.**
+🇺🇸 IT Community of Uzbekistan
+🇷🇺 IT-сообщество Узбекистана
+🇺🇿 O'zbekiston IT hamjamiyati
+**✨ Zamonaviy kasblarni bepul o'rganish imkonini beruvchi ma'lumotlar to'plami.**
 ---
 ### Veb sahifalar
 - [texnoman.uz](https://www.texnoman.uz/)
