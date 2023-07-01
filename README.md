@@ -10,6 +10,7 @@
 - [texnoman.uz](https://www.texnoman.uz/)
 - [uzgeeks.uz](https://www.uzgeeks.uz/)
 - [uzbekdevs.uz](https://uzbekdevs.uz/)
+- [dot-net.uz](https://www.dot-net.uz/)
 - [myblog.uz](https://myblog.uz/)
 - [upper.uz](https://upper.uz/)
 - [code.180kun.com](https://code.180kun.com/)
