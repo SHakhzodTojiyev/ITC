@@ -15,5 +15,13 @@
 ### Youtube sahifalari
 - Hamjamiyat sahifalari
   - [Texnoman Tv](https://www.youtube.com/c/TexnomanTv)
+  - [Mohirdev](https://www.youtube.com/c/Mohirdev)
+  - [PDP Academy](https://www.youtube.com/c/pdpuz)
+  - [Najot Ta'lim](https://www.youtube.com/c/najottalim)
+  - [InterView uz](https://www.youtube.com/c/InterViewuz)
+  - [Co-Learning Academy](https://www.youtube.com/c/CoLearningAcademy)
+  - [IT Park](https://www.youtube.com/channel/UCZWqg4oxo2PyLGuQifUbeqg)
+  - [Debug Podcast](https://www.youtube.com/channel/UC_74Z67Q0FnYVh2YYEd9aEA)
+  - [Techstans](https://www.youtube.com/@techstans)
 - Shaxsiy bloglar
   - [Farkhod Dadajanov](https://www.youtube.com/c/FarkhodDadajanov)
