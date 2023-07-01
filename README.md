@@ -1,6 +1,6 @@
 ### **ITC - INFORMATION TECHNOLOGY COMMUNITY**
 ![IT Community of Uzbekistan](https://i.ibb.co/F0TSLjx/Demo.png)
-# [Odamlar Ucha Olar!](https://www.youtube.com/watch?v=_TqeyyPDXKc)
+# [Odamlar Ucha Olar! 🚀](https://www.youtube.com/watch?v=_TqeyyPDXKc)
 ### 🇺🇸 IT Community of Uzbekistan
 ### 🇷🇺 IT-сообщество Узбекистана
 ### 🇺🇿 O'zbekiston IT hamjamiyati
