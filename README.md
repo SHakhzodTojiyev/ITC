@@ -26,6 +26,7 @@
   - [Uzbek - Silicon Valley Tech Partnership](https://t.me/uzbeksiliconvalley)
   - [FAANG Engineers](https://t.me/+faoMOaMRrmAzNGIy)
   - [UzGeeks - Oʻqing, oʻrganing!](https://t.me/UzGeeksGroup)
+  - [Spring Framework UZ| Discussion](https://t.me/spring_boot_mvc_uz)
   - [Python 🐍](https://t.me/python_uz)
   - [Uz Django Developers Community](https://t.me/djangouzb)
   - [Node.js Uzbekistan](https://t.me/nodejs_uz)
