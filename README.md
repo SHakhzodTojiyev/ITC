@@ -91,3 +91,5 @@
   - [Azizbek G'ulomov](https://www.youtube.com/@azizbekgulomov21)
   - [CodingEasy](https://www.youtube.com/@Coding_easy)
   - [Suhrob Abduaxatov](https://www.youtube.com/@suhrobabduaxatov4601)
+  - [BLAZAR TECH](https://www.youtube.com/@blazartech)
+  - []()
