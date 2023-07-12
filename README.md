@@ -73,3 +73,4 @@
   - [Alisher Makhmudov](https://www.youtube.com/@AlisherMakhmudov)
   - [Muhammadjavohir Suratov](https://www.youtube.com/@MuhammadjavohirSuratov)
   - [Tutorialsuz Official](https://www.youtube.com/@TUTORIALSUZ)
+  - [Akbarov Dev](https://www.youtube.com/@akbarovdev)
